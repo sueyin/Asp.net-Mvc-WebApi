@@ -1,0 +1,2 @@
+2020-09-21 23:00:21.2512|INFO|MvcPresentationLayer.Controllers.HomeController|test
+2020-09-21 23:00:21.2512|INFO|MvcPresentationLayer.Controllers.HomeController|test
